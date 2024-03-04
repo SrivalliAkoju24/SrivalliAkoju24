@@ -10,3 +10,11 @@
 SrivalliAkoju24/SrivalliAkoju24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+- 🫶 Currently on 30 days Hard Challenge for landing in a data engineering job by April 02
+- **Rules of the Challenge**
+- SQL practice I'll just follow coursera
+- Python practice I'll just follow coursera
+- Project Darshil Parmar Spotify, Portfolio 
+- Research and Reaching out to people, Applications
+- Course Tasks
+- **03/03/24:** Researched on how this challenge works, how to keep my spirit high, wrote my rules. 
