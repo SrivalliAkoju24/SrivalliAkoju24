@@ -10,6 +10,7 @@ SrivalliAkoju24/SrivalliAkoju24 is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 - 🫶 Currently on 30 days Hard Challenge for landing in a data engineering job by April 02
+**DO IT** 
 - **Rules of the Challenge**
 - SQL practice I'll just follow coursera
 - Python practice I'll just follow coursera
