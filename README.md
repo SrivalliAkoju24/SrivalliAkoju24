@@ -16,6 +16,9 @@ You can click the Preview link to take a look at your changes.
 - Python practice I'll just follow coursera
 - Project Darshil Parmar Spotify, Portfolio 
 - Research and Reaching out to people, Applications
+- One at a time 
+- By 03/06/24 I'll complete Data Engineering
+- By 03/08/24 I'll complete Python
 - Course Tasks
 - **03/03/24:** Researched on how this challenge works, how to keep my spirit high, wrote my rules.
 - **03/04/24:** Did 2nd Module and felt Fomo and slept 
