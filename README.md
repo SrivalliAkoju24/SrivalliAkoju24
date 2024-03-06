@@ -16,4 +16,6 @@ You can click the Preview link to take a look at your changes.
 - Project Darshil Parmar Spotify, Portfolio 
 - Research and Reaching out to people, Applications
 - Course Tasks
-- **03/03/24:** Researched on how this challenge works, how to keep my spirit high, wrote my rules. 
+- **03/03/24:** Researched on how this challenge works, how to keep my spirit high, wrote my rules.
+- **03/04/24:** Did 2nd Module and felt Fomo and slept 
+- **03/05/24:** Talked to ETL Informatica developer what to do, Initiated conversation with james, Completed module 2,
