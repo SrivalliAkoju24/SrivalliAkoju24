@@ -1,19 +1,9 @@
-# Srivalli Akoju — AI Engineer
+# Srivalli Akoju — Applied AI Engineer
 
-**Building data pipelines that feed LLMs. Turning raw web and social media data into AI-ready intelligence.**
+**Building AI-powered features and LLM applications for product companies.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-srivalliakoju-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srivalliakoju)
 [![Email](https://img.shields.io/badge/Email-akojusrivalli24%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:akojusrivalli24@gmail.com)
-
----
-
-## What I Build
-
-End-to-end pipelines that collect data at scale, clean it, and pipe it into LLMs for analysis, fine-tuning, or retrieval — in production.
-
-- **Job 1:** Built YouTube scraping pipelines to collect training data for fine-tuning voice AI models
-- **Job 2 (current):** Social media scraping → LLM-powered consumer behavior analysis
-- **Side projects:** RAG systems, voice AI pipelines, LLM automation
 
 ---
 
@@ -37,20 +27,21 @@ End-to-end pipelines that collect data at scale, clean it, and pipe it into LLMs
 
 | Project | What It Does | Stack |
 |---|---|---|
-| 🕷️ **[Social Data AI Pipeline](https://github.com/SrivalliAkoju24/social-data-ai-pipeline)** *(coming soon)* | Scrapes social media → LLM consumer sentiment analysis → structured insights | Python · BeautifulSoup · Groq · LangChain |
-| 📊 **[Data Collection with Gemini](https://github.com/SrivalliAkoju24/data_collection_gemini)** | Prompt engineering for structured data extraction using Google Gemini Pro | Gemini Pro · Python |
+| 🕷️ **[Social Data AI Pipeline](https://github.com/SrivalliAkoju24/social-data-ai-pipeline)** | LLM-powered consumer sentiment analysis from social media — structured insights at scale | Python · Groq · LangChain · Gradio |
 | 🎙️ **[Real-Time Voice Translation Pipeline](https://github.com/SrivalliAkoju24/real-time_speech_translation_bot)** | Sub-500ms voice-to-voice translation across 17 languages | Deepgram Nova · Groq LLaMA3 · Azure TTS |
+| 📊 **[Data Collection with Gemini](https://github.com/SrivalliAkoju24/data_collection_gemini)** | Structured data extraction using prompt engineering with Google Gemini Pro | Gemini Pro · Python |
+| 🔍 **RAG Document QA** *(coming soon)* | Ask questions over documents with cited sources — retrieval-augmented generation with visible reasoning | LangChain · ChromaDB · Gradio · Hugging Face Spaces |
 
 ---
 
 ## Core Skills
 
-**Data Collection:** Web scraping · Social media APIs · YouTube data pipelines · Anti-scrape handling · Structured extraction
+**AI Application Development:** LLM integration · RAG systems · Prompt engineering · Conversational AI · Semantic search · Vector embeddings
 
-**LLM Engineering:** RAG systems · Fine-tuning data prep · Prompt engineering · Semantic search · Vector embeddings
+**LLM & Voice AI:** LangChain · Groq (LLaMA3) · Google Gemini · Deepgram · Azure Cognitive Services · Real-time speech pipelines
 
-**Production:** GCP Cloud Run · Docker · async Python · n8n automation · Supabase · Webhook pipelines
+**Production Engineering:** Python · asyncio · Docker · GCP Cloud Run · n8n · Supabase · Webhook automation · GitHub Actions
 
 ---
 
-*Open to Applied AI Engineer · AI Engineer · LLM Engineer roles at companies where data collection and AI meet.*
+*Open to Applied AI Engineer · AI Engineer · LLM Engineer roles at product companies building AI features.*
