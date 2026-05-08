@@ -1,45 +1,54 @@
-# Hi there! I'm Srivalli Akoju
+# Srivalli Akoju — AI Engineer
 
-![AI Enthusiast](https://img.shields.io/badge/AI-Enthusiast-blue) ![LLM Passionate](https://img.shields.io/badge/Passionate-LLMs-yellow)
+**Building production-grade Voice AI and RAG systems in Python.**
 
-## About Me
-
-I'm an **AI enthusiast** with a deep passion for **Large Language Models (LLMs)** and their transformative impact on technology and society. With a strong background in **prompt engineering**, **speech translation**, and **multilingual AI systems**, I thrive on building intelligent solutions that enhance user experiences and drive innovation.
-
-## Skills & Technologies
-
-- **Machine Learning & AI:** PyTorch, TensorFlow, Hugging Face Transformers
-- **Natural Language Processing:** LLMs, Prompt Engineering, Text Generation, Speech Recognition, Sentiment Analysis
-- **Development:** Python, FastAPI, Docker, Git
-- **Cloud Platforms:** Google Cloud Platform (GCP), Azure, AWS
-- **Data Handling:** Data Extraction, Data Quality Optimization, Multilingual Data Processing
-- **Large Language Models**: GPT (GPT-3, GPT-4), BERT, T5, LLaMA, Whisper, SeamlessM4T, Wav2Vec, OpenAI API, Mistral, Groq, Google Gemini Pro
-
-## Achievements
-
-- **User Satisfaction:** Consistently achieved high user satisfaction rates (up to 95%) through optimized AI solutions.
-- **Performance Optimization:** Reduced system latency and improved scalability, ensuring seamless and reliable user interactions.
-- **Innovative Prompt Engineering:** Enhanced data extraction relevance by 30% and supported more accurate model fine-tuning, driving superior AI performance.
-
-## Currently Learning
-
-- Advanced techniques in Large Language Models and their applications.
-- Exploring the latest advancements in conversational AI and voicebot technologies.
-- Enhancing skills in cloud-native deployments and scalable AI infrastructure.
-
-## Let's Connect
-
-- **LinkedIn:** (https://www.linkedin.com/in/srivalliakoju)
-- **Email:** (mailto:akojusrivalli222@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-srivalliakoju-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srivalliakoju)
+[![Email](https://img.shields.io/badge/Email-akojusrivalli222%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:akojusrivalli222@gmail.com)
 
 ---
 
-✨ *"The best way to predict the future is to invent it."* – Alan Kay
+## Tech Stack
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Deepgram](https://img.shields.io/badge/Deepgram-13EF93?logo=deepgram&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq-F55036)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_Cognitive_Services-0078D4?logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP_Cloud_Run-4285F4?logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
 
+---
 
-<!---
-SrivalliAkoju24/SrivalliAkoju24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Featured Projects
+
+| Project | What It Does | Stack |
+|---|---|---|
+| 🎙️ **[Real-Time Voice Translation Pipeline](https://github.com/SrivalliAkoju24/real-time_speech_translation_bot)** | Sub-500ms voice-to-voice translation across 17 languages. Live mic → STT → LLM → TTS, fully async. | Deepgram Nova · Groq LLaMA3 · Azure TTS · asyncio |
+| 📚 **RAG Document QA** *(coming soon)* | Semantic search over documents with live Gradio demo on Hugging Face Spaces. | LangChain · ChromaDB · OpenAI Embeddings |
+| ⚡ **AI Presentation Generator** *(coming soon)* | Input a topic → LLM generates a structured slide deck end-to-end. | Python · n8n · Supabase |
+
+---
+
+## What I Build
+
+- **Voice AI** — real-time audio pipelines with sub-500ms latency, WebSocket streaming, multi-language TTS
+- **RAG Systems** — document ingestion, chunking strategy, vector similarity search, hallucination reduction
+- **LLM Pipelines** — Groq, OpenAI, Gemini; prompt engineering for structured output
+- **Automation** — n8n workflows, webhook-driven backends, Supabase integrations
+- **Cloud Deployment** — GCP Cloud Run, Docker, CI/CD with Cloud Build
+
+---
+
+## Experience Highlights
+
+- Built a real-time multilingual voice translation pipeline with **<500ms end-to-end latency** across **17 languages**
+- Designed RAG systems with semantic chunking and vector search for **product recommendation and document QA**
+- Engineered LLM-powered automation reducing presentation creation time by **~80%**
+- Architected GCP Cloud Run deployments with containerised AI inference pipelines
+
+---
+
+*Open to AI Engineer · LLM Engineer · Voice AI Engineer roles.*
